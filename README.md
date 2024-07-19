@@ -1,1 +1,3 @@
-# databasesStudies
+# Databases Projects
+
+The group formed by Artur de Vlieger Lima [13671574], Gabriel da Costa Merlin [12544420], Gustavo Gabriel Ribeiro [13672683] e Lucas de Souza Brandão [13695021] did two projects during the Databases discipline taught in the 1st semester of 2024 by professor Caetano Traina Júnior. In the first one, we created a Entity–relationship model from a requirements text, then mapped it to a Relational Model, created fake data to populate de database and, finally, ran some sql queries. The second project was similar to the previous one, but in this one we used the Extended Entity-relationship model and populated de database with real Airbnb data, which created the need to realize a Normalization in the data.
